@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kenji776/AlexaServer1.git"
+    "url": "git+https://github.com/ElIvanParra/submyway.git"
   },
   "keywords": [
     "alexa",
@@ -21,10 +21,10 @@
     "server",
     "echo"
   ],
-  "author": "Daniel Llewellyn",
+  "author": "Ivan Parra-Orlandoni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kenji776/AlexaServer1/issues"
+    "url": "https://github.com/ElIvanParra/submyway.git/issues"
   },
-  "homepage": "https://github.com/Kenji776/AlexaServer1#readme"
+  "homepage": "https://github.com/ElIvanParra/submyway.git#readme"
 }
